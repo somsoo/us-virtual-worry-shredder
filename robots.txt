@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-virtual-worry-shredder.enjoy-onepage.com/sitemap.xml
