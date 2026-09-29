@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</title>
+  <title>Virtual Worry &amp; Stress Shredder | Digital Paper Shredder</title>
   <link>https://us-virtual-worry-shredder.enjoy-onepage.com/</link>
-  <description>Type out your frustrations, negative thoughts, or worries, and watch them get shredded into digital paper confetti. Feel instant relief.</description>
+  <description>Write down a worry or frustration and watch it shred into strips or confetti. Nothing you type is saved or sent. Free, private, no sign-up.</description>
   <language>en-us</language>
   <atom:link href="https://us-virtual-worry-shredder.enjoy-onepage.com/rss.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 29 Sep 2026 06:03:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 20:42:01 +0000</lastBuildDate>
   <item>
-    <title>Disclaimer | Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</title>
+    <title>Disclaimer | Virtual Worry Shredder</title>
     <link>https://us-virtual-worry-shredder.enjoy-onepage.com/disclaimer.html</link>
     <guid isPermaLink="true">https://us-virtual-worry-shredder.enjoy-onepage.com/disclaimer.html</guid>
-    <description>Disclaimer | Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</description>
-    <pubDate>Sun, 20 Sep 2026 22:15:24 +0900</pubDate>
+    <description>Disclaimer for the Virtual Worry Shredder.</description>
+    <pubDate>Tue, 29 Sep 2026 20:42:01 +0000</pubDate>
   </item>
   <item>
-    <title>Terms of Service | Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</title>
-    <link>https://us-virtual-worry-shredder.enjoy-onepage.com/terms.html</link>
-    <guid isPermaLink="true">https://us-virtual-worry-shredder.enjoy-onepage.com/terms.html</guid>
-    <description>Terms of Service | Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</description>
-    <pubDate>Sun, 20 Sep 2026 22:15:24 +0900</pubDate>
-  </item>
-  <item>
-    <title>Privacy Policy | Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</title>
+    <title>Privacy Policy | Virtual Worry Shredder</title>
     <link>https://us-virtual-worry-shredder.enjoy-onepage.com/privacy.html</link>
     <guid isPermaLink="true">https://us-virtual-worry-shredder.enjoy-onepage.com/privacy.html</guid>
-    <description>Privacy Policy | Virtual Worry &amp; Stress Shredder | Cathartic Digital Paper Shredder</description>
-    <pubDate>Sun, 20 Sep 2026 22:15:24 +0900</pubDate>
+    <description>Privacy Policy for the Virtual Worry Shredder.</description>
+    <pubDate>Tue, 29 Sep 2026 20:42:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>Terms of Service | Virtual Worry Shredder</title>
+    <link>https://us-virtual-worry-shredder.enjoy-onepage.com/terms.html</link>
+    <guid isPermaLink="true">https://us-virtual-worry-shredder.enjoy-onepage.com/terms.html</guid>
+    <description>Terms of Service for the Virtual Worry Shredder.</description>
+    <pubDate>Tue, 29 Sep 2026 20:42:01 +0000</pubDate>
   </item>
 </channel>
 </rss>
